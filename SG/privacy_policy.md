@@ -95,7 +95,7 @@ The Company uses the collected personal information for the following purposes:
 <br>
 
 | [For European Economic Area (EEA) Residents only] The Company is the data controller of your personal information as described above.If you give consent, you can always revoke by contacting us as specified in contact information below of this Privacy Policy. |
-| --- |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 
 <br><br>
 
@@ -111,39 +111,39 @@ We will also disclose your information to the following entities, only to the ex
 
 ## (1) Affiliates: Other ShipDa Group companies which we control or own, Affiliates may also include other companies related by common or control.
 
-| Company Name | SELLER-NOTE Co.Ltd. (South Korea) |
-| --- | --- |
-| Personal Information | name, mobile number, phone number, departure(pickup) address, arrival address, e-mail and other information you provide directly. |
-| Purpose of sharing | • To proceed export/ import/ customs clearance<br>• To provide quotes<br>• To arrange logistics and provide tariff services<br>• To provide data analytical logistics service |
-| Retention Period | • 6 months from the arrival date for applicable goods (or, 6 months from the request of Company in case any goods are not delivered to the arrival place)<br>• As required under law, a contract, or with regard to the company’s statutory obligations |
+| Company Name         | SELLER-NOTE Co.Ltd. (South Korea)                                                                                                                                                                                                                       |
+| -------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Personal Information | name, mobile number, phone number, departure(pickup) address, arrival address, e-mail and other information you provide directly.                                                                                                                       |
+| Purpose of sharing   | • To proceed export/ import/ customs clearance<br>• To provide quotes<br>• To arrange logistics and provide tariff services<br>• To provide data analytical logistics service                                                                           |
+| Retention Period     | • 6 months from the arrival date for applicable goods (or, 6 months from the request of Company in case any goods are not delivered to the arrival place)<br>• As required under law, a contract, or with regard to the company’s statutory obligations |
 
 <br>
 
 ## (2) Service Providers: Companies that provide services for or on behalf of us, such as companies that help us with customer contact centers, customer care activities, customer event organizers, advertising (including customized advertising on our websites, third-party websites, or online platforms), conducting customer satisfaction surveys, or billing, or that send emails on our behalf, performing data analytics, or operating data management platforms. These providers are also committed to protecting your information.
 
-| Company Name | [View Full List](https://shipda.notion.site/ShipDa-Partner-list-ce50381297de42a39da3cce32216c3e8) |
-| --- | --- |
-| Personal Information | name, mobile number, phone number, departure(pickup) address, arrival address, e-mail and other information you provide directly. |
-| Purpose of sharing | • To proceed export/ import/ customs clearance<br>• To provide quotes<br>• To arrange logistics and provide tariff services<br>• To provide data analytical logistics service |
-| Retention Period | • 6 months from the arrival date for applicable goods (or, 6 months from the request of Company in case any goods are not delivered to the arrival place)<br>• As required under law, a contract, or with regard to the company’s statutory obligations |
+| Company Name         | [View Full List](https://shipda.notion.site/ShipDa-Partner-list-ce50381297de42a39da3cce32216c3e8)                                                                                                                                                       |
+| -------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Personal Information | name, mobile number, phone number, departure(pickup) address, arrival address, e-mail and other information you provide directly.                                                                                                                       |
+| Purpose of sharing   | • To proceed export/ import/ customs clearance<br>• To provide quotes<br>• To arrange logistics and provide tariff services<br>• To provide data analytical logistics service                                                                           |
+| Retention Period     | • 6 months from the arrival date for applicable goods (or, 6 months from the request of Company in case any goods are not delivered to the arrival place)<br>• As required under law, a contract, or with regard to the company’s statutory obligations |
 
 <br>
 
-| Company Name | Zendesk, Inc. |
-| --- | --- |
-| Contact Information | privacy@zendesk.com<br>Tōkyōtochūōku Kyōbashi 2 - 2 - 1 Kyōbashi edoguran |
-| Purpose of sharing | Name, e-mail address, Phone number, Position, Company name, Type of business※ The above required information includes not only the initially collected information, but also information changed due to information modification |
-| Purpose of sharing | • To operate and manage customer service system<br>• To provide customer support |
-| Retention Period | • At least the duration for which the information is used to provide you with a service<br>• As required under law, a contract, or with regard to the Company’s statutory obligations |
+| Company Name        | Zendesk, Inc.                                                                                                                                                                                                                    |
+| ------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Contact Information | privacy@zendesk.com<br>Tōkyōtochūōku Kyōbashi 2 - 2 - 1 Kyōbashi edoguran                                                                                                                                                        |
+| Purpose of sharing  | Name, e-mail address, Phone number, Position, Company name, Type of business※ The above required information includes not only the initially collected information, but also information changed due to information modification |
+| Purpose of sharing  | • To operate and manage customer service system<br>• To provide customer support                                                                                                                                                 |
+| Retention Period    | • At least the duration for which the information is used to provide you with a service<br>• As required under law, a contract, or with regard to the Company’s statutory obligations                                            |
 
 <br>
 
-| Company Name | Mailchimp |
-| --- | --- |
-| Contact Information | mailto:privacy@mailchimp.com<br>The Rocket Science Group, LLC 675 Ponce de Leon Ave NE Suite 5000Atlanta, GA 30308 USA |
-| Purpose of sharing | Name, e-mail address, Phone number, Position, Company name, Type of business※ The above required information includes not only the initially collected information, but also information changed due to information modification |
-| Purpose of sharing | • To operate and manage customer service system<br>• To provide customer support (e.g., sending an email to customers) |
-| Retention Period | • At least the duration for which the information is used to provide you with a service<br>• As required under law, a contract, or with regard to the Company’s statutory obligations |
+| Company Name        | Mailchimp                                                                                                                                                                                                                        |
+| ------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Contact Information | mailto:privacy@mailchimp.com<br>The Rocket Science Group, LLC 675 Ponce de Leon Ave NE Suite 5000Atlanta, GA 30308 USA                                                                                                           |
+| Purpose of sharing  | Name, e-mail address, Phone number, Position, Company name, Type of business※ The above required information includes not only the initially collected information, but also information changed due to information modification |
+| Purpose of sharing  | • To operate and manage customer service system<br>• To provide customer support (e.g., sending an email to customers)                                                                                                           |
+| Retention Period    | • At least the duration for which the information is used to provide you with a service<br>• As required under law, a contract, or with regard to the Company’s statutory obligations                                            |
 
 <br>
 
@@ -181,35 +181,35 @@ Where personal information is transferred by the Company to any third parties ou
 
 <br>
 
-| Recipients of personal Information | [View Full List](https://shipda.notion.site/ShipDa-Partner-list-ce50381297de42a39da3cce32216c3e8) |
-| --- | --- |
-| Items of personal Information | name, mobile number, phone number, departure(pickup) address, arrival address, e-mail and other information you provide directly. |
-| Purpose of using personal Information | • To proceed export/ import/ customs clearance<br>• To provide quotes<br>• To arrange logistics and provide tariff services<br>• To provide data analytical logistics service |
-| Country and Method transferred | • Country transferred: Refer to the “Country Transferred” column in the [List](https://shipda.notion.site/ShipDa-Partner-list-ce50381297de42a39da3cce32216c3e8)<br>• Date transferred: Transmission through the network at the time of using the Internet-related services provided on the ShipDa representative website. |
-| Period of Retention | • 6 months from the arrival date for applicable goods (or, 6 months from the request of Company in case any goods are not delivered to the arrival place)<br>• As required under law, a contract, or with regard to the company’s statutory obligations |
+| Recipients of personal Information    | [View Full List](https://shipda.notion.site/ShipDa-Partner-list-ce50381297de42a39da3cce32216c3e8)                                                                                                                                                                                                                         |
+| ------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Items of personal Information         | name, mobile number, phone number, departure(pickup) address, arrival address, e-mail and other information you provide directly.                                                                                                                                                                                         |
+| Purpose of using personal Information | • To proceed export/ import/ customs clearance<br>• To provide quotes<br>• To arrange logistics and provide tariff services<br>• To provide data analytical logistics service                                                                                                                                             |
+| Country and Method transferred        | • Country transferred: Refer to the “Country Transferred” column in the [List](https://shipda.notion.site/ShipDa-Partner-list-ce50381297de42a39da3cce32216c3e8)<br>• Date transferred: Transmission through the network at the time of using the Internet-related services provided on the ShipDa representative website. |
+| Period of Retention                   | • 6 months from the arrival date for applicable goods (or, 6 months from the request of Company in case any goods are not delivered to the arrival place)<br>• As required under law, a contract, or with regard to the company’s statutory obligations                                                                   |
 
 <br>
 
-| Recipients of personal Information | Zendesk, Inc. |
-| --- | --- |
-| Contact Information | privacy@zendesk.com<br>Tōkyōtochūōku Kyōbashi 2 - 2 - 1 Kyōbashi edoguran |
-| Items of personal Information | Name, e-mail address, Phone number, Position, Company name, Type of business※ The above required information includes not only the initially collected information, but also information changed due to information modification |
-| Purpose of using personal Information | • To operate and manage customer service system<br>• To provide customer support |
-| Country and Method transferred | • Country transferred: Japan<br>• Date transferred: Transmission through the network at the time of using the customer services provided on the ShipDa representative website. |
-| Period of Retention | • At least the duration for which the information is used to provide you with a service<br>• As required under law, a contract, or with regard to the Company’s statutory obligations |
+| Recipients of personal Information    | Zendesk, Inc.                                                                                                                                                                                                                    |
+| ------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Contact Information                   | privacy@zendesk.com<br>Tōkyōtochūōku Kyōbashi 2 - 2 - 1 Kyōbashi edoguran                                                                                                                                                        |
+| Items of personal Information         | Name, e-mail address, Phone number, Position, Company name, Type of business※ The above required information includes not only the initially collected information, but also information changed due to information modification |
+| Purpose of using personal Information | • To operate and manage customer service system<br>• To provide customer support                                                                                                                                                 |
+| Country and Method transferred        | • Country transferred: Japan<br>• Date transferred: Transmission through the network at the time of using the customer services provided on the ShipDa representative website.                                                   |
+| Period of Retention                   | • At least the duration for which the information is used to provide you with a service<br>• As required under law, a contract, or with regard to the Company’s statutory obligations                                            |
 
 <br>
 
-| Recipients of personal Information | Mailchimp |
-| --- | --- |
-| Items of personal Information | privacy@mailchimp.com<br>The Rocket Science Group, LLC 675 Ponce de Leon Ave NE Suite 5000<br>Atlanta, GA 30308 USA |
-| Personal Information | Name, e-mail address, Phone number, Position, Company name, Type of business※ The above required information includes not only the initially collected information, but also information changed due to information modification |
-| Purpose of using personal Information | • To operate and manage customer service system<br>• To provide customer support (e.g., sending an email to customers) |
-| Country and Method transferred | • Country transferred: USA<br>• Date transferred: Transmission through the network at the time of sending e-mails. |
-| Period of Retention | • At least the duration for which the information is used to provide you with a service<br>• As required under law, a contract, or with regard to the Company’s statutory obligations |
+| Recipients of personal Information    | Mailchimp                                                                                                                                                                                                                        |
+| ------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Items of personal Information         | privacy@mailchimp.com<br>The Rocket Science Group, LLC 675 Ponce de Leon Ave NE Suite 5000<br>Atlanta, GA 30308 USA                                                                                                              |
+| Personal Information                  | Name, e-mail address, Phone number, Position, Company name, Type of business※ The above required information includes not only the initially collected information, but also information changed due to information modification |
+| Purpose of using personal Information | • To operate and manage customer service system<br>• To provide customer support (e.g., sending an email to customers)                                                                                                           |
+| Country and Method transferred        | • Country transferred: USA<br>• Date transferred: Transmission through the network at the time of sending e-mails.                                                                                                               |
+| Period of Retention                   | • At least the duration for which the information is used to provide you with a service<br>• As required under law, a contract, or with regard to the Company’s statutory obligations                                            |
 
     [For European Economic Area (EEA) Residents Only]
-    In addition, your use of the services can also involve the transfer, storage, and processing of your personal information to other countries; such countries include, without limitation, countries in the European Economic Area, the United States of America, China, Singapore, Vietnam, India, Canada, the Philippines, and Japan. The Company will take appropriate measures, in compliance with applicable law, to ensure that your personal information remains protected. Such measures include the use of Standard Contractual Clauses to safeguard the transfer of data outside of the EEA. To request more information or to obtain a copy of the contractual agreements in place, contact us. See the contract information section below. 
+    In addition, your use of the services can also involve the transfer, storage, and processing of your personal information to other countries; such countries include, without limitation, countries in the European Economic Area, the United States of America, China, Singapore, Vietnam, India, Canada, the Philippines, and Japan. The Company will take appropriate measures, in compliance with applicable law, to ensure that your personal information remains protected. Such measures include the use of Standard Contractual Clauses to safeguard the transfer of data outside of the EEA. To request more information or to obtain a copy of the contractual agreements in place, contact us. See the contract information section below.
 
 <br><br>
 
@@ -225,8 +225,8 @@ The Company disposes of personal information as soon as it is no longer required
 
 - Up to 1 year after last login or last service use
 - In the cases of following reasons, until the end of the reasons
-    - If an investigation is in progress due to a violation of the relevant laws and regulations, until the investigation is completed.
-    - In case of remaining debts and debts due to service use, until the relevant receivables and debts are settled.
+  - If an investigation is in progress due to a violation of the relevant laws and regulations, until the investigation is completed.
+  - In case of remaining debts and debts due to service use, until the relevant receivables and debts are settled.
 
 <br>
 
