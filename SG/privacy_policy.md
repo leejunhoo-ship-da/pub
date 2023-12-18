@@ -94,8 +94,11 @@ The Company uses the collected personal information for the following purposes:
 
 <br>
 
-| [For European Economic Area (EEA) Residents only] The Company is the data controller of your personal information as described above.If you give consent, you can always revoke by contacting us as specified in contact information below of this Privacy Policy. |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+```
+[For European Economic Area (EEA) Residents only]
+The Company is the data controller of your personal information as described above.
+If you give consent, you can always revoke by contacting us as specified in contact information below of this Privacy Policy.
+```
 
 <br><br>
 
@@ -140,7 +143,7 @@ We will also disclose your information to the following entities, only to the ex
 
 | Company Name        | Mailchimp                                                                                                                                                                                                                        |
 | ------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Contact Information | mailto:privacy@mailchimp.com<br>The Rocket Science Group, LLC 675 Ponce de Leon Ave NE Suite 5000Atlanta, GA 30308 USA                                                                                                           |
+| Contact Information | privacy@mailchimp.com<br>The Rocket Science Group, LLC 675 Ponce de Leon Ave NE Suite 5000Atlanta, GA 30308 USA                                                                                                                  |
 | Purpose of sharing  | Name, e-mail address, Phone number, Position, Company name, Type of business※ The above required information includes not only the initially collected information, but also information changed due to information modification |
 | Purpose of sharing  | • To operate and manage customer service system<br>• To provide customer support (e.g., sending an email to customers)                                                                                                           |
 | Retention Period    | • At least the duration for which the information is used to provide you with a service<br>• As required under law, a contract, or with regard to the Company’s statutory obligations                                            |
@@ -208,10 +211,16 @@ Where personal information is transferred by the Company to any third parties ou
 | Country and Method transferred        | • Country transferred: USA<br>• Date transferred: Transmission through the network at the time of sending e-mails.                                                                                                               |
 | Period of Retention                   | • At least the duration for which the information is used to provide you with a service<br>• As required under law, a contract, or with regard to the Company’s statutory obligations                                            |
 
-| [For European Economic Area (EEA) Residents Only]
+<br>
 
-| In addition, your use of the services can also involve the transfer, storage, and processing of your personal information to other countries; such countries include, without limitation, countries in the European Economic Area, the United States of America, China, Singapore, Vietnam, India, Canada, the Philippines, and Japan. The Company will take appropriate measures, in compliance with applicable law, to ensure that your personal information remains protected. Such measures include the use of Standard Contractual Clauses to safeguard the transfer of data outside of the EEA. To request more information or to obtain a copy of the contractual agreements in place, contact us. See the contract information section below. |
-| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+```
+[For European Economic Area (EEA) Residents Only]
+In addition, your use of the services can also involve the transfer, storage, and processing of your personal information to other countries;
+such countries include, without limitation, countries in the European Economic Area, the United States of America, China, Singapore, Vietnam, India, Canada, the Philippines, and Japan.
+The Company will take appropriate measures, in compliance with applicable law, to ensure that your personal information remains protected.
+Such measures include the use of Standard Contractual Clauses to safeguard the transfer of data outside of the EEA.
+To request more information or to obtain a copy of the contractual agreements in place, contact us. See the contract information section below.
+```
 
 <br><br>
 
