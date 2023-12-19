@@ -114,21 +114,21 @@ We will also disclose your information to the following entities, only to the ex
 
 ## (1) Affiliates: Other ShipDa Group companies which we control or own, Affiliates may also include other companies related by common or control.
 
-| Company Name         | SELLER-NOTE Co.Ltd. (South Korea)                                                                                                                                                                                                                       |
-| -------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Personal Information | name, mobile number, phone number, departure(pickup) address, arrival address, e-mail and other information you provide directly.                                                                                                                       |
-| Purpose of sharing   | • To proceed export/ import/ customs clearance<br>• To provide quotes<br>• To arrange logistics and provide tariff services<br>• To provide data analytical logistics service                                                                           |
-| Retention Period     | • 6 months from the arrival date for applicable goods (or, 6 months from the request of Company in case any goods are not delivered to the arrival place)<br>• As required under law, a contract, or with regard to the company’s statutory obligations |
+| Company Name         | SELLER-NOTE Co.Ltd. (South Korea)                                                                                                                                                     |
+| -------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Personal Information | name, mobile number, phone number, departure(pickup) address, arrival address, e-mail and other information you provide directly.                                                     |
+| Purpose of sharing   | • To proceed export/ import/ customs clearance<br>• To provide quotes<br>• To arrange logistics and provide tariff services<br>• To provide data analytical logistics service         |
+| Retention Period     | • At least the duration for which the information is used to provide you with a service<br>• As required under law, a contract, or with regard to the company’s statutory obligations |
 
 <br>
 
 ## (2) Service Providers: Companies that provide services for or on behalf of us, such as companies that help us with customer contact centers, customer care activities, customer event organizers, advertising (including customized advertising on our websites, third-party websites, or online platforms), conducting customer satisfaction surveys, or billing, or that send emails on our behalf, performing data analytics, or operating data management platforms. These providers are also committed to protecting your information.
 
-| Company Name         | [View Full List](https://shipda.notion.site/ShipDa-Partner-list-ce50381297de42a39da3cce32216c3e8)                                                                                                                                                       |
-| -------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Personal Information | name, mobile number, phone number, departure(pickup) address, arrival address, e-mail and other information you provide directly.                                                                                                                       |
-| Purpose of sharing   | • To proceed export/ import/ customs clearance<br>• To provide quotes<br>• To arrange logistics and provide tariff services<br>• To provide data analytical logistics service                                                                           |
-| Retention Period     | • 6 months from the arrival date for applicable goods (or, 6 months from the request of Company in case any goods are not delivered to the arrival place)<br>• As required under law, a contract, or with regard to the company’s statutory obligations |
+| Company Name         | [View Full List](https://shipda.notion.site/ShipDa-Partner-list-ce50381297de42a39da3cce32216c3e8)                                                                                     |
+| -------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Personal Information | name, mobile number, phone number, departure(pickup) address, arrival address, e-mail and other information you provide directly.                                                     |
+| Purpose of sharing   | • To proceed export/ import/ customs clearance<br>• To provide quotes<br>• To arrange logistics and provide tariff services<br>• To provide data analytical logistics service         |
+| Retention Period     | • At least the duration for which the information is used to provide you with a service<br>• As required under law, a contract, or with regard to the company’s statutory obligations |
 
 <br>
 
@@ -189,7 +189,7 @@ Where personal information is transferred by the Company to any third parties ou
 | Items of personal Information         | name, mobile number, phone number, departure(pickup) address, arrival address, e-mail and other information you provide directly.                                                                                                                                                                                         |
 | Purpose of using personal Information | • To proceed export/ import/ customs clearance<br>• To provide quotes<br>• To arrange logistics and provide tariff services<br>• To provide data analytical logistics service                                                                                                                                             |
 | Country and Method transferred        | • Country transferred: Refer to the “Country Transferred” column in the [List](https://shipda.notion.site/ShipDa-Partner-list-ce50381297de42a39da3cce32216c3e8)<br>• Date transferred: Transmission through the network at the time of using the Internet-related services provided on the ShipDa representative website. |
-| Period of Retention                   | • 6 months from the arrival date for applicable goods (or, 6 months from the request of Company in case any goods are not delivered to the arrival place)<br>• As required under law, a contract, or with regard to the company’s statutory obligations                                                                   |
+| Period of Retention                   | • At least the duration for which the information is used to provide you with a service<br>• As required under law, a contract, or with regard to the company’s statutory obligations                                                                                                                                     |
 
 <br>
 
@@ -234,7 +234,6 @@ The Company disposes of personal information as soon as it is no longer required
 
 **Membership registration and management (Required information: Identification Numbers, e-mail address, Name, Password, Phone number, Mobile phone number, Address, Company name)**
 
-- Up to 1 year after last login or last service use
 - In the cases of following reasons, until the end of the reasons
   - If an investigation is in progress due to a violation of the relevant laws and regulations, until the investigation is completed.
   - In case of remaining debts and debts due to service use, until the relevant receivables and debts are settled.
@@ -247,15 +246,10 @@ The Company disposes of personal information as soon as it is no longer required
 - Records on consumer complaints or dispute resolution: 3 years
 - Records on payment and supply of goods: 5 year
 - Records on contract or subscription withdrawal: 5 years
-- Records on display/advertisement: 6 months
 
 <br>
 
-**Introduction and guidance of various information and events related to customer service use (Required information : Name, Phone number, Mobile phone number, e-mail address, Address, Inquiry) → 1 year from the collection of the personal information**
-
 **Automatically collected in the process of using the service (Collected information: unique device identifiers, access record, service usage record, fraudulent record, IP address, operating system information, screen size, locational information) → the Company may store the personal information during the period which the personal information is needed for the Company to provide the services.**
-
-If a member has no service use record for 1 year or if the service has not been started within 1 year from the date of membership application, the member will be notified in advance and the information will be destroyed.
 
 In case any applicable laws and regulations require any specific retention period for a personal information, the Company will store the personal information during the specific retention period required by the applicable laws and regulations.
 
@@ -283,7 +277,7 @@ The Company retains records of access to the personal information handling syste
 
 ## (5) Technical Measures against Hackers
 
-To prevent the loss, destruction of, or damage to personal data caused by hackers or computer viruses, the Company has installed security software that has regular updates and monitoring. In addition, the Company has also installed a system in off-limits areas for technical/physical monitoring and blocking. Furthermore, the Company also provides network traffic monitoring and the detection of any attempts to, for example, make illegal changes to information.
+To prevent the loss, destruction of, or damage to personal data caused by hackers, the Company has installed security software that has regular updates and monitoring. In addition, the Company has also installed a system in off-limits areas for technical/physical monitoring and blocking. Furthermore, the Company also provides network traffic monitoring and the detection of any attempts to, for example, make illegal changes to information.
 
 The Company takes physical and technical safeguards to secure the information we collect. However, please note that although the Company takes reasonable steps to protect your information, no website, Internet transmission, computer system, or wireless connection is completely secured.
 
