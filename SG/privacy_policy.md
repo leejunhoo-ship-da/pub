@@ -2,7 +2,7 @@ SHIP-DA SG.PTE.LTD. (hereinafter called the “Company", “we”, “us”, “
 
 This privacy policy describes exactly how and why the Company collects and uses personal information from its users (this “Privacy Policy”). It also outlines additional measures that are taken to protect their personal information. Through notices on individual changes, the Company will inform clients if there are any changes to this Privacy Policy.
 
-This policy shall take effect on 01, January, 2024
+This policy shall take effect on 19, December, 2023
 
 <br><br>
 
@@ -353,6 +353,6 @@ We reserve the right to amend the terms of this Privacy Policy at our absolute d
 
 You are encouraged to visit above website from time to time to ensure that you are well informed of our latest policies in relation to personal information protection.
 
-**Notification Date: 01, January 2024**
+**Notification Date: 19, December 2023**
 
-**Enforcement Date: 01, January 2024**
+**Enforcement Date: 19, December 2023**
